@@ -1,0 +1,16 @@
+#home{
+    justify-content: center !important;
+    text-align: center !important;
+    align-items: center;
+    margin-top: 20px;
+    background-color: gray;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+footer{
+    text-align: end;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
